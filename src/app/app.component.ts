@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'cg-tm-ui';
+  title = 'Codegym Tuition Management';
 }
